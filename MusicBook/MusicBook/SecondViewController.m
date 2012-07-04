@@ -28,7 +28,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"ow afdasdfas;dfasjdfas;dfasdflasdfjjl;fs");
+    NSLog(@"Liao ju hong is trying to figure out how to make it .");
 }
 
 - (void)viewDidUnload
