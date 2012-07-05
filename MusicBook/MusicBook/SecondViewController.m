@@ -28,7 +28,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"my old computer now.");
+    NSLog(@" computer now.");
 }
 
 - (void)viewDidUnload
