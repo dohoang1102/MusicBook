@@ -20,9 +20,6 @@
     if (self) {
         self.title = NSLocalizedString(@"First", @"First");
         self.tabBarItem.image = [UIImage imageNamed:@"first"];
-        NSLog(@"i dont how to figure it out now man . . ");
-        NSLog(@"this is Liao ");
-        NSLog(@"What the head");
     }
     return self;
 }
