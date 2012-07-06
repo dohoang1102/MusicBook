@@ -20,7 +20,7 @@
     if (self) {
         self.title = NSLocalizedString(@"Second", @"Second");
         self.tabBarItem.image = [UIImage imageNamed:@"C01-1"];
-        NSLog(@"ghjkl");   
+        NSLog(@"modify secondViewConttoller in 07.06 4:39");
     }
     return self;
 }
