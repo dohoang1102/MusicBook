@@ -19,9 +19,8 @@
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
         self.title = NSLocalizedString(@"Second", @"Second");
-//        self.tabBarItem.image = [UIImage imageNamed:@"C01-1"];
-        [self.tabBarItem setImage:[UIImage imageNamed:@"C01-1"]];
-        NSLog(@"ghjkl");   
+        self.tabBarItem.image = [UIImage imageNamed:@"C01-1"];
+        NSLog(@"modify secondViewConttoller in 07.06 4:39");
     }
     return self;
 }
