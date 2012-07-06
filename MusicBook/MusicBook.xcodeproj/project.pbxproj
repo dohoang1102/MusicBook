@@ -9,6 +9,20 @@
 /* Begin PBXBuildFile section */
 		4A57041A15A6BDAD00C1C0DA /* C01-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57041815A6BDAD00C1C0DA /* C01-1.png */; };
 		4A57041B15A6BDAD00C1C0DA /* C01.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57041915A6BDAD00C1C0DA /* C01.png */; };
+		4A57042915A7364C00C1C0DA /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A57042715A7364C00C1C0DA /* ThirdViewController.m */; };
+		4A57042A15A7364C00C1C0DA /* ThirdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A57042815A7364C00C1C0DA /* ThirdViewController.xib */; };
+		4A57042E15A736D400C1C0DA /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A57042C15A736D400C1C0DA /* FourthViewController.m */; };
+		4A57042F15A736D400C1C0DA /* FourthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A57042D15A736D400C1C0DA /* FourthViewController.xib */; };
+		4A57043315A736FA00C1C0DA /* FifthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A57043115A736FA00C1C0DA /* FifthViewController.m */; };
+		4A57043415A736FA00C1C0DA /* FifthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043215A736FA00C1C0DA /* FifthViewController.xib */; };
+		4A57043F15A7385600C1C0DA /* C02-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043715A7385600C1C0DA /* C02-1.png */; };
+		4A57044015A7385600C1C0DA /* C02.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043815A7385600C1C0DA /* C02.png */; };
+		4A57044115A7385600C1C0DA /* C03-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043915A7385600C1C0DA /* C03-1.png */; };
+		4A57044215A7385600C1C0DA /* C03.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043A15A7385600C1C0DA /* C03.png */; };
+		4A57044315A7385600C1C0DA /* C04-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043B15A7385600C1C0DA /* C04-1.png */; };
+		4A57044415A7385600C1C0DA /* C04.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043C15A7385600C1C0DA /* C04.png */; };
+		4A57044515A7385600C1C0DA /* C05-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043D15A7385600C1C0DA /* C05-1.png */; };
+		4A57044615A7385600C1C0DA /* C05.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57043E15A7385600C1C0DA /* C05.png */; };
 		4AAB6FED15A465CC00CE918C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AAB6FEC15A465CC00CE918C /* UIKit.framework */; };
 		4AAB6FEF15A465CC00CE918C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AAB6FEE15A465CC00CE918C /* Foundation.framework */; };
 		4AAB6FF115A465CC00CE918C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AAB6FF015A465CC00CE918C /* CoreGraphics.framework */; };
@@ -28,6 +42,23 @@
 /* Begin PBXFileReference section */
 		4A57041815A6BDAD00C1C0DA /* C01-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "C01-1.png"; sourceTree = "<group>"; };
 		4A57041915A6BDAD00C1C0DA /* C01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C01.png; sourceTree = "<group>"; };
+		4A57042615A7364C00C1C0DA /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		4A57042715A7364C00C1C0DA /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		4A57042815A7364C00C1C0DA /* ThirdViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThirdViewController.xib; sourceTree = "<group>"; };
+		4A57042B15A736D400C1C0DA /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
+		4A57042C15A736D400C1C0DA /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
+		4A57042D15A736D400C1C0DA /* FourthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FourthViewController.xib; sourceTree = "<group>"; };
+		4A57043015A736FA00C1C0DA /* FifthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FifthViewController.h; sourceTree = "<group>"; };
+		4A57043115A736FA00C1C0DA /* FifthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FifthViewController.m; sourceTree = "<group>"; };
+		4A57043215A736FA00C1C0DA /* FifthViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FifthViewController.xib; sourceTree = "<group>"; };
+		4A57043715A7385600C1C0DA /* C02-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "C02-1.png"; sourceTree = "<group>"; };
+		4A57043815A7385600C1C0DA /* C02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C02.png; sourceTree = "<group>"; };
+		4A57043915A7385600C1C0DA /* C03-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "C03-1.png"; sourceTree = "<group>"; };
+		4A57043A15A7385600C1C0DA /* C03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C03.png; sourceTree = "<group>"; };
+		4A57043B15A7385600C1C0DA /* C04-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "C04-1.png"; sourceTree = "<group>"; };
+		4A57043C15A7385600C1C0DA /* C04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C04.png; sourceTree = "<group>"; };
+		4A57043D15A7385600C1C0DA /* C05-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "C05-1.png"; sourceTree = "<group>"; };
+		4A57043E15A7385600C1C0DA /* C05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C05.png; sourceTree = "<group>"; };
 		4AAB6FE815A465CC00CE918C /* MusicBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AAB6FEC15A465CC00CE918C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4AAB6FEE15A465CC00CE918C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -64,6 +95,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4A57043515A737D300C1C0DA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4A57043615A737E100C1C0DA /* Icons */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		4A57043615A737E100C1C0DA /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				4AAB700115A465CC00CE918C /* first.png */,
+				4AAB700315A465CC00CE918C /* first@2x.png */,
+				4AAB700815A465CC00CE918C /* second.png */,
+				4AAB700A15A465CC00CE918C /* second@2x.png */,
+				4A57041815A6BDAD00C1C0DA /* C01-1.png */,
+				4A57041915A6BDAD00C1C0DA /* C01.png */,
+				4A57043715A7385600C1C0DA /* C02-1.png */,
+				4A57043815A7385600C1C0DA /* C02.png */,
+				4A57043915A7385600C1C0DA /* C03-1.png */,
+				4A57043A15A7385600C1C0DA /* C03.png */,
+				4A57043B15A7385600C1C0DA /* C04-1.png */,
+				4A57043C15A7385600C1C0DA /* C04.png */,
+				4A57043D15A7385600C1C0DA /* C05-1.png */,
+				4A57043E15A7385600C1C0DA /* C05.png */,
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
 		4AAB6FDD15A465CC00CE918C = {
 			isa = PBXGroup;
 			children = (
@@ -94,20 +154,24 @@
 		4AAB6FF215A465CC00CE918C /* MusicBook */ = {
 			isa = PBXGroup;
 			children = (
+				4A57043515A737D300C1C0DA /* Resources */,
 				4AAB6FFB15A465CC00CE918C /* AppDelegate.h */,
 				4AAB6FFC15A465CC00CE918C /* AppDelegate.m */,
 				4AAB6FFE15A465CC00CE918C /* FirstViewController.h */,
 				4AAB6FFF15A465CC00CE918C /* FirstViewController.m */,
-				4AAB700115A465CC00CE918C /* first.png */,
-				4AAB700315A465CC00CE918C /* first@2x.png */,
 				4AAB700515A465CC00CE918C /* SecondViewController.h */,
 				4AAB700615A465CC00CE918C /* SecondViewController.m */,
-				4A57041815A6BDAD00C1C0DA /* C01-1.png */,
-				4A57041915A6BDAD00C1C0DA /* C01.png */,
-				4AAB700815A465CC00CE918C /* second.png */,
-				4AAB700A15A465CC00CE918C /* second@2x.png */,
+				4A57042615A7364C00C1C0DA /* ThirdViewController.h */,
+				4A57042715A7364C00C1C0DA /* ThirdViewController.m */,
+				4A57042B15A736D400C1C0DA /* FourthViewController.h */,
+				4A57042C15A736D400C1C0DA /* FourthViewController.m */,
+				4A57043015A736FA00C1C0DA /* FifthViewController.h */,
+				4A57043115A736FA00C1C0DA /* FifthViewController.m */,
+				4A57043215A736FA00C1C0DA /* FifthViewController.xib */,
 				4AAB700C15A465CC00CE918C /* FirstViewController.xib */,
 				4AAB700F15A465CC00CE918C /* SecondViewController.xib */,
+				4A57042815A7364C00C1C0DA /* ThirdViewController.xib */,
+				4A57042D15A736D400C1C0DA /* FourthViewController.xib */,
 				4AAB6FF315A465CC00CE918C /* Supporting Files */,
 			);
 			path = MusicBook;
@@ -183,6 +247,17 @@
 				4AAB701115A465CC00CE918C /* SecondViewController.xib in Resources */,
 				4A57041A15A6BDAD00C1C0DA /* C01-1.png in Resources */,
 				4A57041B15A6BDAD00C1C0DA /* C01.png in Resources */,
+				4A57042A15A7364C00C1C0DA /* ThirdViewController.xib in Resources */,
+				4A57042F15A736D400C1C0DA /* FourthViewController.xib in Resources */,
+				4A57043415A736FA00C1C0DA /* FifthViewController.xib in Resources */,
+				4A57043F15A7385600C1C0DA /* C02-1.png in Resources */,
+				4A57044015A7385600C1C0DA /* C02.png in Resources */,
+				4A57044115A7385600C1C0DA /* C03-1.png in Resources */,
+				4A57044215A7385600C1C0DA /* C03.png in Resources */,
+				4A57044315A7385600C1C0DA /* C04-1.png in Resources */,
+				4A57044415A7385600C1C0DA /* C04.png in Resources */,
+				4A57044515A7385600C1C0DA /* C05-1.png in Resources */,
+				4A57044615A7385600C1C0DA /* C05.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,6 +272,9 @@
 				4AAB6FFD15A465CC00CE918C /* AppDelegate.m in Sources */,
 				4AAB700015A465CC00CE918C /* FirstViewController.m in Sources */,
 				4AAB700715A465CC00CE918C /* SecondViewController.m in Sources */,
+				4A57042915A7364C00C1C0DA /* ThirdViewController.m in Sources */,
+				4A57042E15A736D400C1C0DA /* FourthViewController.m in Sources */,
+				4A57043315A736FA00C1C0DA /* FifthViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

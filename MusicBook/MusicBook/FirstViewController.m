@@ -18,9 +18,8 @@
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-        self.title = NSLocalizedString(@"First", @"First");
-        self.tabBarItem.image = [UIImage imageNamed:@"first"];
-        NSLog(@"THis is what are you doing ???");
+        self.title = NSLocalizedString(@"最新", @"最新");
+        self.tabBarItem.image = [UIImage imageNamed:@"C01-1"];
     }
     return self;
 }
