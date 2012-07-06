@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A57041A15A6BDAD00C1C0DA /* C01-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57041815A6BDAD00C1C0DA /* C01-1.png */; };
+		4A57041B15A6BDAD00C1C0DA /* C01.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A57041915A6BDAD00C1C0DA /* C01.png */; };
 		4AAB6FED15A465CC00CE918C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AAB6FEC15A465CC00CE918C /* UIKit.framework */; };
 		4AAB6FEF15A465CC00CE918C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AAB6FEE15A465CC00CE918C /* Foundation.framework */; };
 		4AAB6FF115A465CC00CE918C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4AAB6FF015A465CC00CE918C /* CoreGraphics.framework */; };
@@ -24,6 +26,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4A57041815A6BDAD00C1C0DA /* C01-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "C01-1.png"; sourceTree = "<group>"; };
+		4A57041915A6BDAD00C1C0DA /* C01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = C01.png; sourceTree = "<group>"; };
 		4AAB6FE815A465CC00CE918C /* MusicBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AAB6FEC15A465CC00CE918C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4AAB6FEE15A465CC00CE918C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -98,6 +102,8 @@
 				4AAB700315A465CC00CE918C /* first@2x.png */,
 				4AAB700515A465CC00CE918C /* SecondViewController.h */,
 				4AAB700615A465CC00CE918C /* SecondViewController.m */,
+				4A57041815A6BDAD00C1C0DA /* C01-1.png */,
+				4A57041915A6BDAD00C1C0DA /* C01.png */,
 				4AAB700815A465CC00CE918C /* second.png */,
 				4AAB700A15A465CC00CE918C /* second@2x.png */,
 				4AAB700C15A465CC00CE918C /* FirstViewController.xib */,
@@ -175,6 +181,8 @@
 				4AAB700B15A465CC00CE918C /* second@2x.png in Resources */,
 				4AAB700E15A465CC00CE918C /* FirstViewController.xib in Resources */,
 				4AAB701115A465CC00CE918C /* SecondViewController.xib in Resources */,
+				4A57041A15A6BDAD00C1C0DA /* C01-1.png in Resources */,
+				4A57041B15A6BDAD00C1C0DA /* C01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
