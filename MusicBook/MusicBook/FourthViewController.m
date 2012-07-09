@@ -1,45 +1,46 @@
 //
-//  SecondViewController.m
+//  FourthViewController.m
 //  MusicBook
 //
-//  Created by Tom Callon (Hotmail) on 7/4/12.
+//  Created by Tom Callon (Hotmail) on 7/6/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
-#import "SecondViewController.h"
+#import "FourthViewController.h"
 
-@interface SecondViewController ()
+@interface FourthViewController ()
 
 @end
 
-@implementation SecondViewController
+@implementation FourthViewController
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-        self.title = NSLocalizedString(@"排行", @"排行");
-        self.tabBarItem.image = [UIImage imageNamed:@"C02-1"];
-        NSLog(@"modify secondViewConttoller in 07.06 4:39");
+        // Custom initialization
+        self.title = NSLocalizedString(@"搜索", @"Second");
+        self.tabBarItem.image = [UIImage imageNamed:@"C04-1.png"];
     }
     return self;
 }
-							
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view from its nib.
 }
 
 - (void)viewDidUnload
 {
     [super viewDidUnload];
     // Release any retained subviews of the main view.
+    // e.g. self.myOutlet = nil;
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
 {
-    return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
+    return (interfaceOrientation == UIInterfaceOrientationPortrait);
 }
 
 @end
